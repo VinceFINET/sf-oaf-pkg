@@ -1,2 +1,2 @@
-# sf-soaf-pkg
-Salesforce Standard Objects and Fields Packager
+# sf-oaf-pkg
+Salesforce Objects and Fields Packager
